@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mnHome"
+        android:icon="@drawable/baseline_bungalow_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/mnInfo"
+        android:icon="@drawable/baseline_details_24"
+        android:title="Info" />
+    <item
+        android:id="@+id/mnSetting"
+        android:icon="@drawable/baseline_build_24"
+        android:title="Setting" />
+</menu>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Buoi07</string>
+    <string name="seclect_us_de_name_as_departname_from_user_us_left_join_department_de_on_us_departid_de_id">seclect us.*, de.name as departname from user us left join department de on us.departid= de.id</string>
+</resources>
